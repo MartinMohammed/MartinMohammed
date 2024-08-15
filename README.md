@@ -4,13 +4,15 @@
 ## Martin Mohammed ##
 IT Consultant @Data Reply & IT Consultant @Tytan Technologies | Youngest intern that completed 3 months internship in San Francisco at IBM | 20 y. o.
 
-Caption: A photo of me standing in front of the Reply Mirror, proudly displaying the Reply keychain.
-![A photo of me standing in front of the Reply Mirror, proudly displaying the Reply keychain.](https://github.com/user-attachments/assets/38a70d3c-4857-491d-9355-f08dfa52975d) 
+Caption: Winning team at the Tum.ai Makeathon 2024 (me with the black MongoDB T-Shirt). 
+![Winning team at the Tum.ai Makeathon 2024.](https://github.com/user-attachments/assets/d0dec5e7-b3a4-4a28-9242-bfeabdf315ee)
+
 
 Caption: Data Reply BBQ 2024 at the Kulturzentrum in Munich, Bavaria.
 ![Data Reply BBQ 2024 at the Kulturzentrum in Munich, Bavaria.](https://github.com/user-attachments/assets/824f5b64-be79-40f6-a77f-03ff74cc9134)
 
 Caption: Tytan Technologies VIP Day Bundeswehr at the WIWeB - Bundeswehr in Erding, Bavaria.
+![Tytan Technologies VIP Day Bundeswehr at the WIWeB - Bundeswehr in Erding, Bavaria.](https://github.com/user-attachments/assets/e1167ded-4876-479c-95a6-f8a99c78af19)
 
 
 
