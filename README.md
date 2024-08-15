@@ -4,6 +4,8 @@
 ## Martin Mohammed ##
 IT Consultant @Data Reply & IT Consultant @Tytan Technologies | Youngest intern that completed 3 months internship in San Francisco at IBM | 20 y. o.
 
+![data reply logo](https://github.com/user-attachments/assets/734ed674-67f8-4a6c-b600-09039e7e4cf7)
+
 Caption: A photo of me standing in front of the Reply Mirror, proudly displaying the Reply keychain.
 ![me](https://github.com/user-attachments/assets/38a70d3c-4857-491d-9355-f08dfa52975d) 
 
