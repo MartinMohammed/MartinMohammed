@@ -11,7 +11,6 @@ Caption: Data Reply BBQ 2024 at the Kulturzentrum in Munich, Bavaria.
 ![Data Reply BBQ 2024 at the Kulturzentrum in Munich, Bavaria.](https://github.com/user-attachments/assets/824f5b64-be79-40f6-a77f-03ff74cc9134)
 
 Caption: Tytan Technologies VIP Day Bundeswehr at the WIWeB - Bundeswehr in Erding, Bavaria.
-![Tytan Technologies VIP Day Bundeswehr at the WIWeB - Bundeswehr in Erding, Bavaria.](https://github.com/user-attachments/assets/6facbb62-6e8f-43b2-8a54-d2a7430335fc)
 
 
 
