@@ -4,13 +4,16 @@
 ## Martin Mohammed ##
 IT Consultant @Data Reply & IT Consultant @Tytan Technologies | Youngest intern that completed 3 months internship in San Francisco at IBM | 20 y. o.
 
-![data reply logo](https://github.com/user-attachments/assets/734ed674-67f8-4a6c-b600-09039e7e4cf7)
-
 Caption: A photo of me standing in front of the Reply Mirror, proudly displaying the Reply keychain.
-![me](https://github.com/user-attachments/assets/38a70d3c-4857-491d-9355-f08dfa52975d) 
+![A photo of me standing in front of the Reply Mirror, proudly displaying the Reply keychain.](https://github.com/user-attachments/assets/38a70d3c-4857-491d-9355-f08dfa52975d) 
 
-Caption: Behind the scenes at the Data Reply BBQ 2024 at the Kulturzentrum in Munich, Bavaria.
-![Data Reply BBQ 2024](https://github.com/user-attachments/assets/824f5b64-be79-40f6-a77f-03ff74cc9134)
+Caption: Data Reply BBQ 2024 at the Kulturzentrum in Munich, Bavaria.
+![Data Reply BBQ 2024 at the Kulturzentrum in Munich, Bavaria.](https://github.com/user-attachments/assets/824f5b64-be79-40f6-a77f-03ff74cc9134)
+
+Caption: Tytan Technologies VIP Day Bundeswehr at the WIWeB - Bundeswehr in Erding, Bavaria.
+![Tytan Technologies VIP Day Bundeswehr at the WIWeB - Bundeswehr in Erding, Bavaria.](https://github.com/user-attachments/assets/6facbb62-6e8f-43b2-8a54-d2a7430335fc)
+
+
 
 ## About Me ##
 Young professional, completed an internship at IBM for 3 months in San Francisco working on Reinforcement Learning R&D projects at the age of 17. Generated more than 15,000€ in revenue while working as a consultant on client projects during my second month at Data Reply DE. Proven track record with more than 3 years of professional experience, including work as a consultant on projects owned by international companies such as PricewaterhouseCoopers in Frankfurt am Main and BASF in Ludwigshafen. Started programming at the age of 12 and already worked in the industry during high school while completing my Abitur. Well known for the exceptional ability to learn and adapt quickly to changing environments.
