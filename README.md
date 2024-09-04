@@ -1,5 +1,5 @@
 <a href="https://martin-mohammed.com" rel="me"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Personal Website"/></a>
-<a href="https://github.MartinMohammed.com" rel="me"><img src="https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white" alt="Github Pages - About Me"/></a>
+<a href="https://www.linkedin.com/in/martin-mohammed/" rel="me"><img src="https://img.shields.io/badge/LinkedIn-121013?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Martin Mohammed"/></a>
 
 ## Martin Mohammed ##
 IT Consultant @Data Reply & IT Consultant @Tytan Technologies | Youngest intern that completed 3 months internship in San Francisco at IBM | 20 y. o.
