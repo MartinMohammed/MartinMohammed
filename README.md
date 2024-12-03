@@ -2,11 +2,13 @@
 <a href="https://www.linkedin.com/in/martin-mohammed/" rel="me"><img src="https://img.shields.io/badge/LinkedIn-121013?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Martin Mohammed"/></a>
 
 ## Martin Mohammed ##
-IT Consultant @Data Reply & IT Consultant @Tytan Technologies | Youngest intern that completed 3 months internship in San Francisco at IBM | 20 y. o.
+IT Consultant @Data Reply DE | Co-founder @The Real Friends | ex @IBM San Francisco | YFN | 20 y. o.
+
+Caption: Participating at the Entrepreneur First x Meta x Hugginface x Scaleway Hackathon in Paris at Ekimetrics
+![Participating at the Entrepreneur First x Meta x Hugginface x Scaleway Hackathon in Paris at ekimetrics](https://github.com/user-attachments/assets/f05cd602-a1a7-4943-aab9-10c4858018ab)
 
 Caption: Winning team at the Tum.ai Makeathon 2024 (me with the black MongoDB T-Shirt). 
 ![Winning team at the Tum.ai Makeathon 2024.](https://github.com/user-attachments/assets/d0dec5e7-b3a4-4a28-9242-bfeabdf315ee)
-
 
 Caption: Data Reply BBQ 2024 at the Kulturzentrum in Munich, Bavaria.
 ![Data Reply BBQ 2024 at the Kulturzentrum in Munich, Bavaria.](https://github.com/user-attachments/assets/824f5b64-be79-40f6-a77f-03ff74cc9134)
@@ -17,11 +19,9 @@ Caption: Tytan Technologies VIP Day Bundeswehr at the WIWeB - Bundeswehr in Erdi
 
 
 ## About Me ##
-Young professional, completed an internship at IBM for 3 months in San Francisco working on Reinforcement Learning R&D projects at the age of 17. Generated more than 15,000€ in revenue while working as a consultant on client projects during my second month at Data Reply DE. Proven track record with more than 3 years of professional experience, including work as a consultant on projects owned by international companies such as PricewaterhouseCoopers in Frankfurt am Main and BASF in Ludwigshafen. Started programming at the age of 12 and already worked in the industry during high school while completing my Abitur. Well known for the exceptional ability to learn and adapt quickly to changing environments.
+One of the youngest interns at IBM for AI in San Francisco at the age of 17, started programming at the age of 12, won several hackathons and national computer science competitions, worked with several big names in the past such as BASF, PwC, Siemens, etc., and generated more than €70K in billable invoices with a €1,100 day rate at Data Reply in 2024.
 
-My specialty is data engineering, which encompasses building data pipelines, real-time data processing, and orchestrating workflow pipelines using Apache Airflow. This includes developing real-time streaming applications with tools such as Confluent Cloud (Kafka) and real-time stream processing using Apache Spark and Apache Flink for big data solutions involving ETL/ELT data pipelines with e.x. AWS Glue. Additionally, I have built Machine Learning solutions, including anomaly detection for financial transactions and computer vision solutions for state-of-the-art object detection and tracking.
-
-I have been on the podium at several hackathons, including the most recent Tum.ai Makeathon, where I was one of the top winners of the challenge led by Reply. Following this, I started working at Reply as a consultant, where I work on projects by international clients.
+My technical expertise allows me to develop any large-scale innovative platform, and I am committed to building the next billion-dollar company.
 
 ## GitHub Stats ##
 <a href="https://github.com/MartinMohammed" target="_blank" rel="me"><img src="https://github-readme-stats.vercel.app/api?username=MartinMohammed&show_icons=true&theme=codeSTACKr&show=reviews,prs_merged,prs_merged_percentage&hide=issues" alt="Martin Mohammed's GitHub stats"/></a>
